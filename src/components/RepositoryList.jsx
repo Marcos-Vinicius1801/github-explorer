@@ -1,6 +1,6 @@
 import { RepositoryItem } from "./RepositoryItem"
 const repo = {
-    name: 'unform2',
+    name: 'Form',
     description: 'Forms in React components',
     link: 'https://github.com/Marcos-Vinicius1801'
 }
